@@ -1,0 +1,470 @@
+[
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Koç",
+    "score": 80,
+    "description": "İki ateş burcu olarak enerjik bir ilişki yaşarlar."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Boğa",
+    "score": 60,
+    "description": "Koç’un enerjisi ile Boğa’nın sabrı çatışabilir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "İkizler",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Yengeç",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Aslan",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Başak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Terazi",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Akrep",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Yay",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Koç",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Boğa",
+    "score": 85,
+    "description": "İki toprak burcu sabitlikten hoşlanır."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "İkizler",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Yengeç",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Aslan",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Başak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Terazi",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Akrep",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Yay",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Boğa",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "İkizler",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "Yengeç",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "Aslan",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "Başak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "Terazi",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "Akrep",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "Yay",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "İkizler",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yengeç",
+    "zodiac2": "Yengeç",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yengeç",
+    "zodiac2": "Aslan",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yengeç",
+    "zodiac2": "Başak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yengeç",
+    "zodiac2": "Terazi",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yengeç",
+    "zodiac2": "Akrep",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yengeç",
+    "zodiac2": "Yay",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yengeç",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yengeç",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yengeç",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Aslan",
+    "zodiac2": "Aslan",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Aslan",
+    "zodiac2": "Başak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Aslan",
+    "zodiac2": "Terazi",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Aslan",
+    "zodiac2": "Akrep",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Aslan",
+    "zodiac2": "Yay",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Aslan",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Aslan",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Aslan",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Başak",
+    "zodiac2": "Başak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Başak",
+    "zodiac2": "Terazi",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Başak",
+    "zodiac2": "Akrep",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Başak",
+    "zodiac2": "Yay",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Başak",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Başak",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Başak",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Terazi",
+    "zodiac2": "Terazi",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Terazi",
+    "zodiac2": "Akrep",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Terazi",
+    "zodiac2": "Yay",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Terazi",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Terazi",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Terazi",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Akrep",
+    "zodiac2": "Akrep",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Akrep",
+    "zodiac2": "Yay",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Akrep",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Akrep",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Akrep",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yay",
+    "zodiac2": "Yay",
+    "score": 90,
+    "description": "Macera dolu bir birliktelik. Sıkılmazlar."
+  },
+  {
+    "zodiac1": "Yay",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yay",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Yay",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Oğlak",
+    "zodiac2": "Oğlak",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Oğlak",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Oğlak",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Kova",
+    "zodiac2": "Kova",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Kova",
+    "zodiac2": "Balık",
+    "score": 65,
+    "description": "Bu iki burç arasındaki ilişki özenli ve dikkatli şekilde yürütülmelidir."
+  },
+  {
+    "zodiac1": "Balık",
+    "zodiac2": "Balık",
+    "score": 85,
+    "description": "Derin duygularla dolu bir ilişki. Romantizm eksik olmaz."
+  }
+]
